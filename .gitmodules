@@ -43,3 +43,6 @@
 [submodule "vim-delve"]
 	path = vim-delve
 	url = git@github.com:sebdah/vim-delve.git
+[submodule "lightline.vim"]
+	path = lightline.vim
+	url = git@github.com:itchyny/lightline.vim.git
