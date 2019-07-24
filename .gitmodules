@@ -46,3 +46,19 @@
 [submodule "lightline.vim"]
 	path = lightline.vim
 	url = git@github.com:itchyny/lightline.vim.git
+[submodule "vim-healthcheck"]
+	path = vim-healthcheck
+	url = https://github.com/rhysd/vim-healthcheck.git
+[submodule "typescript-vim"]
+	path = typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "deoplete-vim-lsp"]
+	path = deoplete-vim-lsp
+	url = https://github.com/lighttiger2505/deoplete-vim-lsp
+[submodule "vim-lsp"]
+	path = vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp
+[submodule "coc.nvim"]
+	path = coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+	branch = release
