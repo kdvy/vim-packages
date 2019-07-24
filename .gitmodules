@@ -62,3 +62,6 @@
 	path = coc.nvim
 	url = https://github.com/neoclide/coc.nvim
 	branch = release
+[submodule "echodoc.vim"]
+	path = echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim
