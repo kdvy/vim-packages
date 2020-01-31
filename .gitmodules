@@ -25,9 +25,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = git@github.com:tpope/vim-fugitive.git
-[submodule "vim-go"]
-	path = vim-go
-	url = git@github.com:fatih/vim-go.git
 [submodule "vim-hug-neovim-rpc"]
 	path = vim-hug-neovim-rpc
 	url = git@github.com:roxma/vim-hug-neovim-rpc.git
@@ -65,3 +62,15 @@
 [submodule "echodoc.vim"]
 	path = echodoc.vim
 	url = https://github.com/Shougo/echodoc.vim
+[submodule "markdown-preview.nvim"]
+	path = markdown-preview.nvim
+	url = https://github.com/iamcco/markdown-preview.nvim.git
+[submodule "vim-node-rpc"]
+	path = vim-node-rpc
+	url = https://github.com/neoclide/vim-node-rpc.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "govim"]
+	path = govim
+	url = https://github.com/govim/govim.git
