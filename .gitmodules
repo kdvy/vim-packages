@@ -74,3 +74,9 @@
 [submodule "govim"]
 	path = govim
 	url = https://github.com/govim/govim.git
+[submodule "asyncomplete.vim"]
+	path = asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim
+[submodule "asyncomplete-omni.vim"]
+	path = asyncomplete-omni.vim
+	url = https://github.com/yami-beta/asyncomplete-omni.vim
