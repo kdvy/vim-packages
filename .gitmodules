@@ -37,9 +37,6 @@
 [submodule "vim-delve"]
 	path = vim-delve
 	url = git@github.com:sebdah/vim-delve.git
-[submodule "lightline.vim"]
-	path = lightline.vim
-	url = git@github.com:itchyny/lightline.vim.git
 [submodule "vim-healthcheck"]
 	path = vim-healthcheck
 	url = https://github.com/rhysd/vim-healthcheck.git
@@ -52,10 +49,6 @@
 [submodule "vim-lsp"]
 	path = vim-lsp
 	url = https://github.com/prabirshrestha/vim-lsp
-[submodule "coc.nvim"]
-	path = coc.nvim
-	url = https://github.com/neoclide/coc.nvim
-	branch = release
 [submodule "echodoc.vim"]
 	path = echodoc.vim
 	url = https://github.com/Shougo/echodoc.vim
@@ -83,3 +76,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim
+[submodule "vim-lsp-ale"]
+	path = vim-lsp-ale
+	url = git@github.com:rhysd/vim-lsp-ale.git
