@@ -79,6 +79,6 @@
 [submodule "vim-lsp-ale"]
 	path = vim-lsp-ale
 	url = git@github.com:rhysd/vim-lsp-ale.git
-[submodule "vim-airline"]
-	path = vim-airline
-	url = git@github.com:vim-airline/vim-airline.git
+[submodule "lightline.vim"]
+	path = lightline.vim
+	url = git@github.com:itchyny/lightline.vim.git
