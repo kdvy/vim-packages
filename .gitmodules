@@ -82,3 +82,6 @@
 [submodule "lightline.vim"]
 	path = lightline.vim
 	url = git@github.com:itchyny/lightline.vim.git
+[submodule "lightline-ale"]
+	path = lightline-ale
+	url = git@github.com:maximbaz/lightline-ale.git
