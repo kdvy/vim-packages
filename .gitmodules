@@ -85,3 +85,9 @@
 [submodule "lightline-ale"]
 	path = lightline-ale
 	url = git@github.com:maximbaz/lightline-ale.git
+[submodule "asyncomplete-lsp.vim"]
+	path = asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
+[submodule "vim-lsc"]
+	path = vim-lsc
+	url = https://github.com/natebosch/vim-lsc.git
