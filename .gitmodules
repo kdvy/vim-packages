@@ -97,3 +97,9 @@
 [submodule "copilot.vim"]
 	path = copilot.vim
 	url = https://github.com/github/copilot.vim.git
+[submodule "asyncomplete-tabnine.vim"]
+	path = asyncomplete-tabnine.vim
+	url = git@github.com:kitagry/asyncomplete-tabnine.vim.git
+[submodule "kotlin-language-server"]
+	path = kotlin-language-server
+	url = git@github.com:fwcd/kotlin-language-server.git
